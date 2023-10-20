@@ -1,0 +1,1 @@
+#include "magic_subscriber_pcl2image.h"
